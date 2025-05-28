@@ -101,4 +101,4 @@ The system outputs results in JSON format:
 
 ## Contributing
 
-[Add contribution guidelines here] 
+[Add contribution guidelines here]
