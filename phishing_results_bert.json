@@ -1,0 +1,884 @@
+[
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-100.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-1000.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-101.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-102.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-103.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-104.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-105.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-106.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-107.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-108.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-109.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-11.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-110.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-111.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-112.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-113.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-114.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-115.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-116.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-117.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-118.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-119.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-12.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-120.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-121.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-122.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-123.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-124.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-125.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-126.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-127.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-128.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-129.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-13.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-130.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-131.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-132.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-133.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-134.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-135.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-136.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-137.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-138.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-139.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-14.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-140.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-141.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-142.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-143.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-144.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-145.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-146.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-147.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-148.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-149.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-15.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-150.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-151.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-152.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-153.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-154.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-155.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-156.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-157.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-158.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-159.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-16.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-160.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-161.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-162.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-163.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-164.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-165.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-166.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-167.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-168.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-169.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-17.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-170.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-171.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-172.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-173.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-174.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-175.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-176.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-177.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-178.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-179.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-18.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-180.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-181.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-182.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-183.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-184.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-185.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-186.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-187.eml"
+        }
+    ],
+    [
+        {
+            "label": "phishing",
+            "score": 0.9880231618881226
+        },
+        {
+            "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-188.eml"
+        }
+    ]
+]

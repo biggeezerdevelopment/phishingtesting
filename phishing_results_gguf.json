@@ -1,0 +1,1099 @@
+[
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious link, fake urgency, and generic greeting.",
+        "reasons": [
+            "Generic greeting",
+            "Fake urgency",
+            "Suspicious link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-1.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Red flags in sender and IP address",
+        "reasons": [
+            "Fake Microsoft account",
+            "IP address spoofing",
+            "Unusual sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-10.eml"
+    },
+    {
+        "classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Highly promotional tone, unclear sender",
+        "reasons": [
+            "Promotional language",
+            "Unclear sender identity",
+            "Lack of personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-100.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious link, unknown sender, generic return-path",
+        "reasons": [
+            "Generic Return-Path",
+            "Unknown Sender",
+            "Suspicious Link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-1000.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.42,
+        "explanation": "Phishing attempt, suspicious IP, and country",
+        "reasons": [
+            "Phishing attempt",
+            "Suspicious IP",
+            "Country/region spoofing"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-101.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.46,
+        "explanation": "Phishing attempt, fake prize, and suspicious sender",
+        "reasons": [
+            "Fake prize",
+            "Unusual sender",
+            "Grammar error"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-102.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.37,
+        "explanation": "Urgent tone, generic greeting, and unusual sender domain.",
+        "reasons": [
+            "Urgent tone",
+            "Generic greeting",
+            "Unusual domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-103.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and misspelled domain",
+        "reasons": [
+            "Misspelled domain",
+            "Suspicious keywords",
+            "Unverified sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-104.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt with free gift",
+        "reasons": [
+            "Free gift",
+            "Unlocked",
+            "Generic sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-105.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender domain",
+        "reasons": [
+            "Unverified sender",
+            "Generic congratulatory message",
+            "Unusual domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-106.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.87,
+        "explanation": "Fake CEO claim, unsolicited prize, generic greeting",
+        "reasons": [
+            "Fake CEO claim",
+            "Unsolicited prize",
+            "Generic greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-107.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.42,
+        "explanation": "Informal greeting and lack of personalization",
+        "reasons": [
+            "Informal greeting",
+            "Lack of personalization",
+            "Suspicious sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-108.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Unverified sender",
+            "Unusual keywords",
+            "Missing verification"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-109.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Explicit content warning",
+        "reasons": [
+            "Explicit content",
+            "Age restriction",
+            "TV advertisement"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-11.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Red flags in sender and return-path",
+        "reasons": [
+            "Unfamiliar domain",
+            "Missing personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-110.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keyword usage",
+        "reasons": [
+            "McAfee keyword",
+            "Discount offer",
+            "Unverified sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-111.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt, login details provided",
+        "reasons": [
+            "Phishing attempt",
+            "Login details",
+            "Suspicious link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-112.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keyword usage",
+        "reasons": [
+            "keyword",
+            "usage",
+            "phishing"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-113.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious email with suspicious sender",
+        "reasons": [
+            "Phishing email",
+            "Fake OpenSea",
+            "Spammy unsubscribe"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-114.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and generic apology",
+        "reasons": [
+            "Generic apology",
+            "Suspicious keywords",
+            "ECB jurisdiction"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-115.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Unusual sender and content",
+        "reasons": [
+            "Unusual sender",
+            "Unfamiliar institution",
+            "Suspicious tone"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-116.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and lack of personalization",
+        "reasons": [
+            "phishing",
+            " generic",
+            "unverifiable"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-117.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Unusual sender",
+            "Stellar Foundation",
+            "Phishing-like subject"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-118.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords",
+        "reasons": [
+            "UN Organization",
+            "FBI Counter-terrorism",
+            "Beneficiary"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-119.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and formatting",
+        "reasons": [
+            "phishing",
+            "formatting",
+            "links"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-12.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious keywords and lack of personalization",
+        "reasons": [
+            "Unusual sender name",
+            "Phishing for cryptocurrency"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-120.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.95,
+        "explanation": "Explicit content and solicitation",
+        "reasons": [
+            "Explicit language",
+            "Solicitation for sex",
+            "NSFW content"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-121.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt, generic greeting, and vague details",
+        "reasons": [
+            "Generic greeting",
+            "Vague details",
+            "Unusual sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-122.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt, Stellar Foundation not verified",
+        "reasons": [
+            "Unverified sender",
+            "Lack of personalization",
+            "Stellar Foundation not verified"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-123.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.73,
+        "explanation": "Suspicious link, generic greeting, and poor grammar",
+        "reasons": [
+            "Suspicious link",
+            "Generic greeting",
+            "Poor grammar"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-124.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious sender, missing personalization",
+        "reasons": [
+            "Missing personalization",
+            "Unverified sender",
+            "Unusual domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-125.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Urgent tone",
+            "Foreign partner claim"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-126.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.37,
+        "explanation": "Suspicious link, unknown sender, generic greeting",
+        "reasons": [
+            "Generic greeting",
+            "Unknown sender",
+            "Suspicious link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-127.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt, suspicious link, fake sender",
+        "reasons": [
+            "Suspicious link",
+            "Fake sender",
+            "Phishing attempt"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-128.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious link, No clear context",
+        "reasons": [
+            "Suspicious link",
+            "No clear context",
+            "Unfamiliar sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-129.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keyword 'immediate verification required'",
+        "reasons": [
+            "phishing email",
+            "expired account",
+            "update informations"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-13.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt with fake name and Google link",
+        "reasons": [
+            "Fake Name",
+            "Google Link",
+            "Phishing Attempt"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-130.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt with fake Microsoft Defender Team",
+        "reasons": [
+            "Fake Microsoft Defender Team",
+            "Missing verification link",
+            "Unusual sender email"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-131.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious keywords and email address",
+        "reasons": [
+            "Unverifiable sender",
+            "Generic greeting",
+            "Urgent tone"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-132.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and generic greeting",
+        "reasons": [
+            "Generic greeting",
+            "Suspicious keywords",
+            "Missing personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-133.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Lack of personalization, generic content",
+        "reasons": [
+            "Generic content",
+            "Lack of personalization",
+            "Unusual sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-134.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious domain, missing personalization",
+        "reasons": [
+            "Domain",
+            "Missing",
+            "Personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-135.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Urgent language, Random selection, Lack of personalization",
+        "reasons": [
+            "Urgent language",
+            "Random selection",
+            "Lack of personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-136.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords, weak password, and unfamiliar sender",
+        "reasons": [
+            "Unfamiliar sender",
+            "Weak password",
+            "Suspicious keywords"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-137.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt to steal recovery phrase",
+        "reasons": [
+            "Unverified sender",
+            "Urgent tone",
+            "Link request"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-138.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Legitimate company offering personalized services",
+        "reasons": [
+            "Personalized",
+            "Legitimate",
+            "Company"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-139.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and generic sender",
+        "reasons": [
+            "Generic sender",
+            "Suspicious keywords",
+            "Unusual offer"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-14.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Unusual sender domain and low yield offer",
+        "reasons": [
+            "Unusual domain",
+            "Low yield",
+            "Phishing attempt"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-140.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Legitimate company offering energy services",
+        "reasons": [
+            "Personalized offer",
+            "Official website",
+            "Clear terms"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-141.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Overly friendly tone, suspicious sender",
+        "reasons": [
+            "Overly friendly tone",
+            "Suspicious sender",
+            "Generic greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-142.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.98,
+        "explanation": "Explicit content",
+        "reasons": [
+            "nudity",
+            "exhibitionism",
+            "inappropriate"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-143.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Red flags in sender and return-path",
+        "reasons": [
+            "Unusual sender email",
+            "Return-path mismatch",
+            "Generic greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-144.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious link, generic greeting, and request to visit a page",
+        "reasons": [
+            "Generic greeting",
+            "Suspicious link",
+            "Request to visit a page"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-145.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing link, generic greeting, and suspicious sender",
+        "reasons": [
+            "Phishing link",
+            "Generic greeting",
+            "Suspicious sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-146.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Lack of personalization, urgent tone, and generic institution",
+        "reasons": [
+            "Lack of personalization",
+            "Urgent tone",
+            "Generic institution"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-147.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt with suspicious link",
+        "reasons": [
+            "Unverified sender",
+            "Generic greeting",
+            "Urgency tactic"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-148.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Legitimate notification from Mercado Livre",
+        "reasons": [
+            "Legitimate",
+            "Notification",
+            "Mercado"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-149.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.37,
+        "explanation": "Automated email, unclear sender",
+        "reasons": [
+            "Automated email",
+            "Unclear sender",
+            "Lack of personalization"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-15.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious link and sender",
+        "reasons": [
+            "Unfamiliar sender",
+            "Phishing link",
+            "Unusual domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-150.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Urgency and lack of personalization",
+        "reasons": [
+            "Urgent tone",
+            "Lack of personal info",
+            "Generic website"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-151.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Explicit content and suggestive language",
+        "reasons": [
+            "Explicit language",
+            "Suggestive tone",
+            "Nudity implied"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-152.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and links",
+        "reasons": [
+            "Links to unknown websites",
+            "Unsolicited dating offers",
+            "Generic unsubscribe link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-153.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Promises too good, WhatsApp link",
+        "reasons": [
+            "Too-good-to-be-true",
+            "WhatsApp link",
+            "Promises benefits"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-154.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious login details provided",
+        "reasons": [
+            "Unusual",
+            "Phishing",
+            "Login"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-155.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Grammar and spelling errors",
+        "reasons": [
+            "Grammar mistakes",
+            "Spelling errors",
+            "Unusual greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-156.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "phishing attempt",
+        "reasons": [
+            "Unusual sender domain",
+            "Generic greeting content",
+            "Suspicious link format"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-157.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Urgency and lack of personalization",
+        "reasons": [
+            "Urgency",
+            "Lack of personalization",
+            "Unusual donation"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-158.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Legitimate business inquiry",
+        "reasons": [
+            "Generic greeting",
+            "Urgent but vague",
+            "Company domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-159.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Unusual sender domain",
+        "reasons": [
+            "Unusual sender domain",
+            "Lack of personalization",
+            "Generic subject line"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-16.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and links",
+        "reasons": [
+            "Unusual keywords",
+            "Phishing link",
+            "Generic greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-160.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Unusual sender and airdrop claim button",
+        "reasons": [
+            "Unusual",
+            "Sender",
+            "Claim"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-161.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Unverified account",
+            "Suspicious sender",
+            "NFT's & Coins"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-162.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious link, unclear sender, urgent tone",
+        "reasons": [
+            "Urgent tone",
+            "Unclear sender",
+            "Suspicious link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-163.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "suspicious keywords",
+            "fake bank",
+            "phishing link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-164.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.73,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Urgent reply",
+            "Business proposal",
+            "Unverified sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-165.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "No suspicious keywords or links found.",
+        "reasons": [
+            "Legitimate company name",
+            "No suspicious attachments",
+            "Generic greeting used"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-166.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Explicit content",
+        "reasons": [
+            "Nudity",
+            "Sexual",
+            "Threat"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-167.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Overly emotional tone, unusual sender claim, lack of context.",
+        "reasons": [
+            "Emotional appeal",
+            "Unverifiable claim",
+            "Missing context"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-168.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Urgency and vague language",
+        "reasons": [
+            "Urgency",
+            "Vagueness",
+            "Lack of details"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-169.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "No suspicious keywords found",
+        "reasons": [
+            "No",
+            "legit",
+            "update"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-17.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Urgent tone, unknown sender, bitcoin details",
+        "reasons": [
+            "Urgent tone",
+            "Unknown sender",
+            "Bitcoin details"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-170.eml"
+    },
+    {
+        "Classification": "Benign",
+        "percentage": 0.0,
+        "explanation": "Legitimate transaction details",
+        "reasons": [
+            "Sender is Mercado Pago",
+            "Return-Path is Mercado Pago",
+            "No suspicious keywords"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-171.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Unusual payment institution and account number",
+        "reasons": [
+            "Nu Pagamentos S.A.",
+            "337923950",
+            "Unusual account number"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-172.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender",
+        "reasons": [
+            "Suspicious keywords",
+            "Unverified sender",
+            "Phishing domain"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-173.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Phishing attempt, Private contact, Business directory",
+        "reasons": [
+            "Private contact",
+            "Business directory",
+            "Phishing attempt"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-174.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.85,
+        "explanation": "Explicit content and suspicious sender",
+        "reasons": [
+            "Explicit language",
+            "Suspicious sender",
+            "Unusual greeting"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-175.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Ukrainian girls, suspicious link, unsubscribe",
+        "reasons": [
+            "Ukrainian girls",
+            "suspicious link",
+            "unsubscribe"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-176.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Cryptocurrency giveaway with urgency",
+        "reasons": [
+            "Urgency tactic",
+            "Cryptocurrency giveaway",
+            "Lack of official SpaceX link"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-177.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Grammar and spelling errors",
+        "reasons": [
+            "Grammar mistakes",
+            "Spelling errors",
+            "Unusual sender"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-178.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords, unverified wallet, QR-Code request",
+        "reasons": [
+            "Unverified wallet",
+            "QR-Code request",
+            "Suspicious keywords"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-179.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keyword, unclear link, and generic sender",
+        "reasons": [
+            "Generic sender",
+            "Unclear link",
+            "Suspicious keyword"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-18.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Explicit content and threats",
+        "reasons": [
+            "Explicit language",
+            "Threats of violence",
+            "NSFW content"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-180.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious Bitcoin transfer request",
+        "reasons": [
+            "Unfamiliar sender",
+            "Unusual amount",
+            "Phishing keyword"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-181.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious transaction claim",
+        "reasons": [
+            "Unusual transaction amount",
+            "Generic greeting",
+            "Phishing claim"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-182.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Suspicious keywords and sender's email",
+        "reasons": [
+            "Suspicious keywords",
+            "Sender's email",
+            "Unusual amount"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-183.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.87,
+        "explanation": "Bitcoin scam, suspicious sender, and hidden address.",
+        "reasons": [
+            "Bitcoin scam",
+            "Suspicious sender",
+            "Hidden address"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-184.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.83,
+        "explanation": "Suspicious Bitcoin offer",
+        "reasons": [
+            "Unverifiable sender",
+            "Unusual subject line",
+            "Bitcoin promise"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-185.eml"
+    },
+    {
+        "Classification": "Malicious",
+        "percentage": 0.75,
+        "explanation": "Urgency and large amount of money",
+        "reasons": [
+            "Urgency",
+            "Large amount",
+            "Phishing scam"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-186.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.43,
+        "explanation": "Ukrainian girls, suspicious link",
+        "reasons": [
+            "Ukrainian girls",
+            "Suspicious link",
+            "Unsubscribe"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-187.eml"
+    },
+    {
+        "Classification": "Suspicious",
+        "percentage": 0.75,
+        "explanation": "Suspicious keyword, unclear sender, missing personalization",
+        "reasons": [
+            "Missing personalization",
+            "Unclear sender",
+            "Suspicious keyword"
+        ],
+        "filename": "C:\\Users\\danfe\\OneDrive\\Desktop\\TestHugging\\phishing_pot\\email\\sample-188.eml"
+    }
+]
